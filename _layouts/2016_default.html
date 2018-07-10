@@ -8,13 +8,13 @@
     {% endcapture %}
     {{ criticalcss | scssify }}
   </style>
-  
-  {% include /2016_data/js.html %}
-  {% include /2016_data/head.html %}
+
+  {% include /core_data/js.html %}
+  {% include /core_data/head.html %}
 
   <body>
     {% include /2016_data/header.html %}
         {{ content }}
   </body>
-  {% include /2016_data/footer.html %}
+  {% include /core_data/footer.html %}
 </html>
