@@ -1,6 +1,6 @@
 ---
-layout: 2016_default
-permalink: /2016/team
+layout: 2018_default
+permalink: /2018/team
 title: Team Member
 ---
   <!--background color-->
@@ -11,7 +11,7 @@ title: Team Member
   <!-- this section wraps the team members as a container-->
   <section class="cf team-container team-container-top black-frame">
     <h1 class="team-h1">List 1</h1>
-  
+
     {% for team in site.data.twenty_16.teams_1 %}
     <div class="team-member">
       <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
@@ -19,7 +19,7 @@ title: Team Member
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
        <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
-    </div> 
+    </div>
     {% endfor %}
   </section>
 
@@ -33,6 +33,6 @@ title: Team Member
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
        <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
-    </div> 
-    {% endfor %} 
+    </div>
+    {% endfor %}
  </section>
