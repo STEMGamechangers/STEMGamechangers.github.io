@@ -16,11 +16,13 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dr
+  name: Kirstie Whitaker
+  subtitle: Research fellow, Alan Turing Institute
+  img: KirstieWhitaker_Square.jpg
+  thumbnail: KirstieWhitaker_Square.jpg
+  alt: Picture of Kirstie
+  topic: Organiser
+  email: kwhitaker@turing.ac.uk
+  slackname: KirstieJane
+  description: Neuroscientist interested in adolescent brain development and Open Science advocate

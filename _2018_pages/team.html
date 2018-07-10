@@ -1,7 +1,7 @@
 ---
 layout: 2018_default
 permalink: /team
-title: Team Member
+title: Organising team
 ---
   <!--background color-->
   <script type="text/javascript">
@@ -10,29 +10,32 @@ title: Team Member
 
   <!-- this section wraps the team members as a container-->
   <section class="cf team-container team-container-top black-frame">
-    <h1 class="team-h1">List 1</h1>
+    <h1 class="team-h1">Organising team members</h1>
 
-    {% for team in site.data.twenty_16.teams_1 %}
+    {% for team in site.data.twenty_18.teams %}
+    <div class="team-member">
+      <img class="team-photo" src="../css/2018_style/img/team/{{ team.img }}">
+      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <h3>{{ team.name }}</h3>
+      <!-- <span>Slack: {{ team.slackname }}</span> -->
+       <span >Slack: <a class="email" href="https://stemgamechangers.slack.com/">@{{ team.slackname }}</a></span>
+    </div>
+    {% endfor %}
+  </section>
+
+<!--
+  <section class="cf team-container black-frame">
+    <h1 class="team-h1">List 2</h1>
+
+    {% for team in site.data.twenty_18.teams_2 %}
     <div class="team-member">
       <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
       <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <!-- DOUBLE COMMENT - Can't nest comments! Hmmm html hmmmm.
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
        <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
     </div>
     {% endfor %}
   </section>
-
-  <section class="cf team-container black-frame">
-    <h1 class="team-h1">List 2</h1>
-
-    {% for team in site.data.twenty_16.teams_2 %}
-    <div class="team-member">
-      <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
-      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
-      <h3>{{ team.name }}</h3>
-      <span>{{ team.position }}</span>
-       <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
-    </div>
-    {% endfor %}
- </section>
+-->
