@@ -1,26 +1,28 @@
-- title: Name
-  name: Name-1
-  subtitle: This is a test - KW edit
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Tabitha Goldstaub
+  name: Tabitha Goldstaub
+  subtitle: Co-Founder, CognitionX
+  img: Tabitha_DLD_2018.jpg
+  thumbnail: Tabitha_DLD_2018.jpg
+  alt: Picture of Tabitha Goldstaub
   topic: Topic
-  description: More Info
+  description: Tabitha is Co-Founder of CognitionX, an AI Advice Platform which connects organisations with a global network of AI experts. She is also Director of CogX, the Festival of AIl Things AI, which in June 2018 brought together 300 speakers and 6,500 members of the AI community to discuss the Impact of AI.
+Alongside CognitionX, Tabitha chairs the AI Council for the UK government's Office for AI, to champion a rapid and responsible adoption of AI. An advocate for increased diversity in the industry, Tabitha also set up Why Women in AI and Co-Founded Future Girl Corp.
+In 2008 Tabitha co-founded Rightster (now Brave Bison), the largest online video distribution company outside the US, and was part of the executive team that took the business to IPO 2011, with 250 people and offices in 11 countries.
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Dr Ozak Esu
+  name: Dr Ozak Esu
+  subtitle: Institution of Engineering and Technology (IET) YWE Winner 2017, Cundall
+  img: Ozak_Esu.jpg
+  thumbnail: Ozak_Esu.jpg
+  alt: Picture of Dr Ozak Esu
   topic: Topic
-  description: More Info
+  description: Ozak is an electrical engineer, leading national and international engineering projects at Cundall. She is passionate about advancing society through science, technology, engineering, mathematic (STEM) and has devoted the past nine years to STEM outreach and volunteering initiatives that promote equality, diversity, and inclusion.
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Dr Emma Chapman
+  name: Dr Emma Chapman
+  subtitle: Royal Astronomical Society Fellow, Imperial College London
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
+  alt: Picture of Dr Emma Chapman
   topic: Topic
   description: More Info
