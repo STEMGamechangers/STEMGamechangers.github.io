@@ -1,48 +1,11 @@
 ---
-layout: 2018_default
+layout: 2018_pdf
 permalink: /agenda
-title: Agenda
+title: "Agenda"
+published: true
 ---
-    <!--background color-->
-    <script type="text/javascript">
-        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
-    </script>
+<script type="text/javascript">
+    document.write ('<body style="padding-bottom:0px;">')
+</script>
 
-    <div class="event black-frame">
-      <h1>{{ page.title }}</h1>
-
-        <h2>Day 1</h2>
-        <table class="agenda">
-            <thead>
-                <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>
-                </tr>
-            </thead>
-
-            {% for agenda in site.data.twenty_18.agendas_1 %}
-                <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr>
-            {% endfor %}
-        </table>
-
-        <h2>Day 2</h2>
-        <table class="agenda">
-            <thead>
-                <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>
-                </tr>
-
-            </thead>
-
-            {% for agenda in site.data.twenty_18.agendas_2 %}
-                <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr>
-            {% endfor %}
-        </table>
-    </div>
+<iframe src="https://docs.google.com/file/d/1KcJiwxwQdaKi1xXPVcp_WH0g0IFLPpBnda1YQX7IxBA/preview" style="height:100vh;width:100vw;"></iframe>
