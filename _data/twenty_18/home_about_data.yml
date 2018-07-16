@@ -1,7 +1,7 @@
-- inverted: 
+- inverted:
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: More information
+  info: Read more about why we're running this event and what we hope to achieve
   link: /about
 
 - inverted: timeline-inverted
@@ -10,7 +10,7 @@
   info: Check out the agenda
   link: /agenda
 
-- inverted: 
+- inverted:
   img: icon-team.jpeg
   name: Team
   info: Find out the team members
@@ -22,14 +22,14 @@
   info: Learn more about our location
   link: /venue
 
-- inverted: 
+- inverted:
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
 
 - inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+  img: sponsor-icon.png
+  name: Sponsorship
+  info: Check out our sponsorship packages if you're able to support this event.
+  link: /sponsor
