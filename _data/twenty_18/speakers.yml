@@ -1,6 +1,15 @@
+- title: Dr Alfredo Carpineti
+  name: AlfredoCarpineti
+  subtitle: Staff writer at IFLScience
+  img: AlfredoCarpineti.jpg
+  thumbnail: AlfredoCarpineti.jpg
+  alt: Picture of Dr Alfredo Carpineti
+  topic: "Being LGBTQ+ In STEM"
+  description: "What is it like being LGBTQ+ in a STEM field in this day and age? What are the challenges, what is being done, and what our hopes for the future are."
+
 - title: Tabitha Goldstaub
   name: TabithaGoldstaub
-  subtitle: Co-Founder, CognitionX
+  subtitle: "Co-Founder, CognitionX"
   img: Tabitha_DLD_2018.jpg
   thumbnail: Tabitha_DLD_2018.jpg
   alt: Picture of Tabitha Goldstaub
@@ -9,7 +18,7 @@
 
 - title: Dr Ozak Esu
   name: OzakEsu
-  subtitle: Institution of Engineering and Technology (IET) YWE Winner 2017, Cundall
+  subtitle: Institution of Engineering and Technology YWE Winner 2017, Cundall
   img: Ozak_Esu.jpg
   thumbnail: Ozak_Esu.jpg
   alt: Picture of Dr Ozak Esu

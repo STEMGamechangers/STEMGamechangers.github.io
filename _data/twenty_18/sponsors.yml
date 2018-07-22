@@ -1,17 +1,20 @@
 - title: Institute of Physics, London and South East branch
-  subtitle: THIS IS THE SUBTITLE
+  subtitle: Silver sponsor
   img: iop.jpg
   thumbnail: iop.jpg
+  url: http://www.iop.org/activity/branches/south_east/lse/index.html
   alt: Logo for Institute of Physics
 
 - title: Cavendish Inspiring Women
-  subtitle: THIS IS THE SUBTITLE
+  subtitle: Affiliated organisation
   img: ciw.jpg
   thumbnail: ciw.jpg
+  url: http://cavinspiringwomen.squarespace.com
   alt: Logo for Cavendish Inspiring Women
 
 - title: Imperial College Women in Physics Society
-  subtitle: THIS IS THE SUBTITLE
+  subtitle: Affiliated organisation
   img: ic_wip.jpg
   thumbnail: ic_wip.jpg
+  url: http://www.imperial.ac.uk/physics/about/women-in-physics
   alt: Logo for Institute of Physics
