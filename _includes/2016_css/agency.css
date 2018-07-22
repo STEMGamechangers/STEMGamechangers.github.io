@@ -477,9 +477,10 @@ section h3.section-subheading {
     padding-top: 25px;
     padding-bottom: 5px;
     max-width: 400px;
-    min-height: 100px;
+    min-height: 150px;
     text-align: center;
     background-color: #fff;
+    display: block;
 }
 
 #speakers .speakers-item .speakers-caption h4 {
