@@ -1,28 +1,39 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Mr Devjoy Dev
+  subtitle: Postgraduate researcher at Imperial College London redesigning medical devices for astronauts with cardiac arrhythmias
+  img: DevjoyDev.jpg
+  thumbnail: DevjoyDev.jpg
+  alt: Picture of Mr Devjoy Dev
+  twittername: ''
+  slackname: Dev
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Dr Sarah Morgan
+  subtitle: Junior Research Fellow at Lucy Cavendish College, Cambridge University studying brain images using network science
+  img: SarahMorgan.jpg
+  thumbnail: SarahMorgan.jpg
+  alt: Picture of Dr Sarah Morgan
+  twittername: Sarah_Morgan_UK
+  slackname: Sarah Morgan
 
-- title: Dr
-  name: Kirstie Whitaker
-  subtitle: Research fellow, Alan Turing Institute
-  img: KirstieWhitaker_Square.jpg
-  thumbnail: KirstieWhitaker_Square.jpg
-  alt: Picture of Kirstie
-  topic: Organiser
-  email: kwhitaker@turing.ac.uk
+- name: Dr Jess Wade
+  subtitle: Postdoc in the Department of Physics and Centre for Plastic Electronics at Imperial College London creating circularly polarised organic light emitting diodes
+  img: JessWade.jpg
+  thumbnail: JessWade.jpg
+  alt: Picture of Dr Jess Wade
+  twittername: jesswade
+  slackname: Jessssssssss
+
+- name: Dr Kirstie Whitaker
+  subtitle: Research fellow at The Alan Turing Institute interested in adolescent brain development and reproducible research
+  img: KirstieWhitaker.jpg
+  thumbnail: KirstieWhitaker.jpg
+  alt: Picture of Dr Kirstie Whitaker
+  twittername: kirstie_j
   slackname: KirstieJane
-  description: Neuroscientist interested in adolescent brain development and Open Science advocate
+
+- name: Dr Hannah Williams
+  subtitle: Postdoc at Imperial College London working with ultracold molecules
+  img: HannahWilliams.jpg
+  thumbnail: HannahWilliams.jpg
+  alt: Picture of Dr Hannah Williams
+  twittername: hannah_physics
+  slackname: Hannah

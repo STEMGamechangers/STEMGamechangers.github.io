@@ -10,12 +10,6 @@
   info: Check out the agenda
   link: /agenda
 
-#- inverted:
-#  img: icon-team.jpeg
-#  name: Team
-#  info: Find out the team members
-#  link: /team
-
 - inverted:
   img: icon-venue.jpeg
   name: Venue
@@ -29,6 +23,12 @@
 #  link: /faqs
 
 - inverted: timeline-inverted
+  img: icon-team.jpeg
+  name: Team
+  info: Meet the organising team members
+  link: /team
+
+- inverted:
   img: sponsor-icon.png
   name: Sponsor the event
   info: Check out our sponsorship packages if you're able to support this event.
