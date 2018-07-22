@@ -16,10 +16,10 @@
 #  info: Find out the team members
 #  link: /team
 
-- inverted: 
+- inverted:
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: Click for directions to the Alan Turing Institute inside the British Library
   link: /venue
 
 #- inverted:
@@ -30,6 +30,6 @@
 
 - inverted: timeline-inverted
   img: sponsor-icon.png
-  name: Sponsorship
+  name: Sponsor the event
   info: Check out our sponsorship packages if you're able to support this event.
   link: /sponsor
