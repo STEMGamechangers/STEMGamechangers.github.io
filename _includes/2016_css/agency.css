@@ -49,7 +49,7 @@ body {
 }
 
 p {
-    line-height: 1.75;
+  line-height: 1.75;
 	font-size: 120%;
 }
 
@@ -920,4 +920,13 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+ul {
+  line-height: 1.5;
+  font-size: 120%;
+}
+
+li:not(:last-child) {
+  margin: 0 0 10px 0;
 }
