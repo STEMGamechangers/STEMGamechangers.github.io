@@ -928,6 +928,20 @@ ul {
   font-size: 120%;
 }
 
+ol {
+  line-height: 1.5;
+  font-size: 120%;
+}
+
 li:not(:last-child) {
   margin: 0 0 10px 0;
+}
+
+.faqanswer {
+  color: black ;
+  list-style-type: none;
+}
+
+.blackp {
+    color: black
 }
