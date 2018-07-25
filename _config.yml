@@ -27,7 +27,9 @@ social:
   - title: slack
     url: https://stemgamechangers.slack.com/
   - title: twitter
-    url: https://twitter.com/search?q=stemgamechangers
+    url: https://twitter.com/stemgamechange
+  - title: facebook
+    url: https://www.facebook.com/STEMgamechangers/
   - title: github
     url: https://github.com/stemgamechangers/stemgamechangers.github.io
 
