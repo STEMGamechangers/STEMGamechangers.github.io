@@ -505,7 +505,14 @@ section h3.section-subheading {
 #sponsors .speakers-item .speakers-caption h4 {
     margin: 0;
     text-transform: none;
-    min-height: 50px;
+    min-height: 70px;
+    display: block;
+}
+
+#sponsors .speakers-item .speakers-caption p {
+    margin: 0;
+    text-transform: none;
+    min-height: 30px;
     display: block;
 }
 
