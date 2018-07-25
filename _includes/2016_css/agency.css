@@ -501,6 +501,14 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+
+#sponsors .speakers-item .speakers-caption h4 {
+    margin: 0;
+    text-transform: none;
+    min-height: 50px;
+    display: block;
+}
+
 @media(min-width:767px) {
     #speakers .speakers-item {
         margin: 0 0 30px;

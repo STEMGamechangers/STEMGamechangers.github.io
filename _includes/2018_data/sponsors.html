@@ -9,15 +9,15 @@
             </div>
             <div class="row">
             {% for post in site.data.twenty_18.sponsors %}
-            <div class="col-md-4 col-sm-6">
-                <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
+            <div class="col-md-4 col-sm-6 speakers-item">
+                <a href="{{ post.url }}" class="speakers-link" data-toggle="modal">
                     <img src="../css/2018_style/img/sponsors/{{ post.thumbnail }}"
                          class="img-responsive img-centered"
                          alt="{{ post.alt }}">
                 </a>
                 <div class="speakers-caption">
-                  <p class="text-muted">{{ post.subtitle }}</p>
-                  <h4>{{ post.title }}</h4>
+                    <p class="text-muted">{{ post.subtitle }}</p>
+                    <h4>{{ post.title }}</h4>
                 </div>
             </div>
         {% endfor %}
