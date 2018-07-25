@@ -16,20 +16,20 @@
   info: Click for directions to The Alan Turing Institute inside the British Library
   link: /venue
 
-#- inverted:
-#  img: icon-faq.jpeg
-#  name: FAQs
-#  info: Have a Question? Many answers can be found right here in our FAQs
-#  link: /faqs
-
 - inverted: timeline-inverted
+  img: icon-faq.jpeg
+  name: FAQs
+  info: Have a Question? Many answers can be found right here in our FAQs
+  link: /faqs
+
+- inverted:
   img: icon-team.jpeg
   name: Team
   info: Meet the organising team members
   link: /team
 
-- inverted:
+- inverted: timeline-inverted
   img: sponsor-icon.png
   name: Sponsor the event
-  info: Check out our sponsorship packages if you're able to support this event.
+  info: Thank you to our <a href="/#sponsors">amazing sponsors</a>. Check out our sponsorship packages if you're able to support this event.
   link: /sponsor
