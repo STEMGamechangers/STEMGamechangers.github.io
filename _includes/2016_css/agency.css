@@ -960,3 +960,15 @@ li:not(:last-child) {
 .blackp {
     color: black
 }
+
+.blackli {
+    color: black
+}
+
+strong {
+    font-weight: bolder;
+}
+
+.green {
+    color: #{{ site.data.template.color.secondary-dark }}
+}
