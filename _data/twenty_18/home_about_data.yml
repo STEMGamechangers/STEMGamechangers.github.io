@@ -5,10 +5,10 @@
   link: /about
 
 - inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
+  img: icon-faq.jpeg
+  name: FAQs
+  info: Have a Question? Many answers can be found right here in our FAQs
+  link: /faqs
 
 - inverted:
   img: icon-venue.jpeg
@@ -17,10 +17,10 @@
   link: /venue
 
 - inverted: timeline-inverted
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Check out the agenda
+  link: /agenda
 
 - inverted:
   img: icon-team.jpeg
