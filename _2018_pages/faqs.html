@@ -9,20 +9,57 @@ title: Frequently Asked Questions (FAQ)
     </script>
 
     <div class="black-frame about">
-      <h1 class="title">{{ page.title }}</h1>
+       <h1 class="title">{{ page.title }}</h1>
 
-      <p class="blackp">
-          Check out our questions and answers to find out more about the Gamechangers for Diversity in STEM event.
-      </p>
-        <ul>
-            {% for faq in site.data.twenty_18.faqs %}
-                <li class="faqquestion"><b>{{ faq.question }}</b>
-                    <li class="faqanswer">{{ faq.answer }}</li>
-                </li>
-            {% endfor %}
-        </ul>
+       <p class="blackp">
+           Check out our questions and answers to find out more about the Gamechangers for Diversity in STEM event.
+       </p>
 
-        <p>
-            If your question isn't answered here, <a href="/#contact">please send us a message</a>. Thank you!
-        </p>
-    </div>
+       <h2 class="first">Applications</h2>
+
+       <ul>
+           {% for faq in site.data.twenty_18.faqs_applications %}
+               <li class="faqquestion"><b>{{ faq.question }}</b>
+                   <li class="faqanswer">{{ faq.answer }}</li>
+               </li>
+               <br>
+           {% endfor %}
+       </ul>
+
+       <h2 class="first">Collaborative working</h2>
+
+       <ul>
+           {% for faq in site.data.twenty_18.faqs_collaborative %}
+               <li class="faqquestion"><b>{{ faq.question }}</b>
+                   <li class="faqanswer">{{ faq.answer }}</li>
+               </li>
+               <br>
+           {% endfor %}
+       </ul>
+
+       <h2 class="first">Pitches and prizes</h2>
+
+       <ul>
+           {% for faq in site.data.twenty_18.faqs_pitches %}
+               <li class="faqquestion"><b>{{ faq.question }}</b>
+                   <li class="faqanswer">{{ faq.answer }}</li>
+               </li>
+               <br>
+           {% endfor %}
+       </ul>
+
+       <h2 class="first">External communications</h2>
+
+       <ul>
+           {% for faq in site.data.twenty_18.faqs_comms %}
+               <li class="faqquestion"><b>{{ faq.question }}</b>
+                   <li class="faqanswer">{{ faq.answer }}</li>
+               </li>
+               <br>
+           {% endfor %}
+       </ul>
+
+       <p>
+           If your question isn't answered here, <a href="/#contact">please send us a message</a>. Thank you!
+       </p>
+   </div>
