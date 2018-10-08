@@ -25,6 +25,23 @@ title: Organising team
        {% endif %}
     </div>
     {% endfor %}
+
+    <h1 class="team-h1">Facilitators</h1>
+
+    {% for team in site.data.twenty_18.facilitators %}
+    <div class="team-member">
+      <img class="team-photo" src="../css/2018_style/img/team/{{ team.img }}">
+      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <h3>{{ team.name }}</h3>
+      <!-- <span>Slack: {{ team.slackname }}</span> -->
+       <span>{{ team.subtitle }}</span>
+       <span >Slack: <a class="email" href="https://stemgamechangers.slack.com/">@{{ team.slackname }}</a></span>
+       {% if team.twittername != '' %}
+         <span >Twitter: <a class="email" href="https://twitter.com/">@{{ team.twittername }}</a></span>
+       {% endif %}
+    </div>
+    {% endfor %}
+
   </section>
 
 <!--

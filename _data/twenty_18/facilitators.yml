@@ -1,0 +1,41 @@
+- name: Dr Carmen Palacios Berraquero
+  subtitle: Postgraduate researcher at University of Cambridge studying the quantum optics of 2-dimensional materials.
+  img: CarmenPalaciosBerraquero.jpg
+  thumbnail: CarmenPalaciosBerraquero.jpg
+  alt: Picture of Dr Carmen Palacios Berraquero
+  twittername: carmen_pbq
+  slackname: Carmen
+
+- name: Francesca Di Nuzzo
+  subtitle: Co-founder and chief financial officer of GenPol (Gender & Policy Insights), a think tank consultancy specialising in socio-economic research on matters of gender.
+  img: FrancescaDiNuzzo.jpg
+  thumbnail: FrancescaDiNuzzo.jpg
+  alt: Picture of Francesca Di Nuzzo
+  twittername: GenderPolicyIns
+  slackname: Francesca
+
+- name: Antonio Portas
+  subtitle: Outreach specialist at NUSTEM at Northumbria University which aims to support children, young people, and their key influencers, to help them make informed choices about STEM careers in the North East of England.
+  img: AntonioPortas.jpg
+  thumbnail: AntonioPortas.jpg
+  alt: Picture of Antonio Portas
+  twittername: nustem_uk
+  slackname: Antonio Portas
+
+- name: Alice White
+  subtitle: Historian of science, digital editor and Wikimedian in Residence at Wellcome Collection.
+  img: AliceWhite.jpg
+  thumbnail: AliceWhite.jpg
+  alt: Picture of Alice White
+  twittername: HistorianAlice
+  slackname: Alice
+
+- name: Ankita Anirban
+  subtitle: PhD student in physics at the University of Cambridge studying interactions between electrons.
+  img: AnkitaAnirban.jpg
+  thumbnail: AnkitaAnirban.jpg
+  alt: Picture of Ankita Anirban
+  twittername: AnkitaAnirban
+  slackname: Ankita Anirban
+
+
